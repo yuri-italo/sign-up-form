@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Norse";
-  src: url("/fonts/Norse-Bold.otf") format("opentype");
+  src: url("../fonts/Norse-Bold.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -93,7 +93,7 @@ body,
 
 .background-container {
   align-items: center;
-  background: url("/img/halie-west-25xggax4bSA-unsplash.jpg") no-repeat
+  background: url("../img/halie-west-25xggax4bSA-unsplash.jpg") no-repeat
     center/cover;
   flex-direction: column;
   width: 30vw;
